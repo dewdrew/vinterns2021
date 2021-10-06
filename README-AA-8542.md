@@ -1,9 +1,9 @@
-##Andrew Twum-Adane
+#Andrew Twum-Adane
 
 ![Andrew Here!](https://www.datamavens.io/profile/avatar/18?field=image_256)
 
 I am a  Computer Engineering student in KNUST currently in my third year.
-i aspire to be an accomplished ML engineer as well as programmer.
+i aspire to be an accomplished ML engineer as well as a programmer.
 Currently interning at DataMavens Ltd.
 
 ### My Current Skillset includes -
